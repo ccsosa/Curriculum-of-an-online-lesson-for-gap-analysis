@@ -245,7 +245,7 @@ Data sources:
 
 
 
-> # Outcomes obtained:
+> # Outcomes obtained for module 1:
 > Stage 1. Obtain Species occurrences (Germplasm + Herbarium data in a geographical space
 > <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/ccb7895a-9e14-4232-990b-4064968321cb" />
 
@@ -268,14 +268,16 @@ Learning outcomes:
 This section introduces the foundations of what is a model and what is a species distribution model using the ODMAP approach: Overview, Data, Model fitting, Assessment, Prediction. Also, this topic includes some examples of modeling a species distribution model using MaxEnt and R
 
 Content and articles:
-- [SDM slides]()
+- [SDM slides](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/SDM/Day_4_SDM.pptx.pdf)
 - [Species’ Distribution Modeling for Conservation Educators and Practitioners](https://www.amnh.org/content/download/141368/2285424/file/species-distribution-modeling-for-conservation-educators-and-practitioners.pdf)
 - [A standard protocol for reporting species distribution models](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.04960)
 - [Maximum entropy modeling of species geographic distributions](https://www.sciencedirect.com/science/article/pii/S030438000500267X)
   
-Tutorials:
-- [Introduction to Species Distribution Modeling Using R]()
+Video tutorials:
+- [Introduction to Species Distribution Modeling Using R](https://www.youtube.com/watch?v=0VObf2rMrI8&list=PLGUVPPU5uVysm2u9KOtdSP4st2YGqAB38)
 - [MaxEnt tutorial step by step](https://www.youtube.com/watch?v=mKwIJr9ECWM)
+
+Tutorial:
 - [A very brief introduction to species distribution models in R](https://jcoliver.github.io/learn-r/011-species-distribution-models.html)
   
 Threshold article (Recommended)
@@ -286,10 +288,10 @@ Optional articles:
 - [The effects of small sample size and sample bias on threshold selection and accuracy assessment of species distribution models](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1600-0587.2011.06545.x)
   
 Tutorial data:
-- [Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys]()
+- [Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/SDM/occurrences_SDM.csv)
   
 Tutorial:
-- [SDM slides tutorial using B. gasipaes data (slides 53-77)]()
+- [SDM slides tutorial using B. gasipaes data (slides 53-77)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/SDM/Day_4_SDM.pptx.pdf)
 
 ## Topic 2.2. Examples using MaxEnt, Wallace, enmsdmX, and ENMEval
 This section provides a detailed tutorial on modeling species distribution using MaxEnt. MaxEnt is the gold standard algorithm for species distribution because of its capability to use pseudoabsences and only presence records. Thus, some resources are provided to use MaxEnt, such as Wallace. Wallace is an R platform that allows modeling a specific species distribution using a local computer and a Shiny app (a browser-based form to run a program in R, which is convenient for beginner users and for those users new to the modeling tasks. It is provided for advanced users as a tutorial of the package enmSdmX and ENMEval (We highly suggest using this approach to obtain accurate species distribution models). 
@@ -324,7 +326,7 @@ Articles:
 
 
 
-> # Outcomes obtained:
+> # Outcomes obtained for module 2:
 > Stage 2. Obtain the potential distribution of a species considering if it is a landrace or a crop wild relatives
 > <img width="600" height="300" alt="Diapositiva8" src="https://github.com/user-attachments/assets/4330c8fc-720d-484e-863c-041075b52343" />
 
