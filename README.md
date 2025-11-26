@@ -237,7 +237,7 @@ Data sources:
   [Video Tutorial (Genesys)](https://www.youtube.com/watch?v=3VV-juFFVxs)
 
   Tutorial:
-  - [Downloading data for a landraces gap analysis from public databases]()
+  - [Downloading data for a landraces gap analysis from public databases](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/passport_data_retrieval_guide.pdf)
 
 - Step 3.) Proceed to clean up your occurrences data 
   Tutorials:
@@ -376,7 +376,7 @@ Web content:
 - [What is a Gap Analysis?](https://cwr.croptrust.org/project-components/gap-analysis/)
 
 Slides:
-- [Foundations of crop wild relatives gap analysis (CWRGA)]()
+- [Foundations of crop wild relatives gap analysis (CWRGA)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/Day_4_CWR_GAPANALYSIS.pptx.pdf)
 
 Articles:
 - [A Gap Analysis Methodology for Collecting Crop Genepools: A Case Study with Phaseolus Beans](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013497)
@@ -394,20 +394,20 @@ __________________________________________________________________
 > Please use the command:```remotes::install_github("CIAT-DAPA/GapAnalysis") to install from GitHub```
 
 Article:
-- [GapAnalysit  s R package](https://github.com/CIAT-DAPA/GapAnalysis)
+- [GapAnalysis R package](https://github.com/CIAT-DAPA/GapAnalysis)
 - [Step 1): Use an Interpret GapAnalysis R results](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.05430)
   
 Data for CWRGA (Ecoregions)  :
 - [Data for the calculation of an indicator of the comprehensiveness of conservation of useful wild plants](https://www.sciencedirect.com/science/article/pii/S235234091831518X)
   
 Code:
-- [Step 2): Perform a CWRGA (Code for tutorial)]()
+- [Step 2): Perform a CWRGA (Code for tutorial)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/CWR_GAPANALYSIS.R)
   
 Tutorial:
-- [Step3): Tutorial to run a Crop Wild Relatives Gap Analysis using an R code explained step by step]()
+- [Step3): Tutorial to run a Crop Wild Relatives Gap Analysis using an R code explained step by step](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/Tutorial%20to%20perform%20a%20Crop%20Wild%20Relatives%20ex-situ%20gap%20analysis.pptx.pdf)
 - 
 Code:
-- [Extra: Code to run CWR gap analysis for multiple species and visualize them in a Leaflet visualization]()
+- [Extra: Code to run CWR gap analysis for multiple species and visualize them in a Leaflet visualization](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/CWR_GAPANALYSIS_SUMMARY.R)
 
 > [!Warning]
 > The CWRGA requires germplasm data. In the lack of germplasm data, your target species must be considered as an urgent priority to collect.
@@ -420,19 +420,19 @@ __________________________________________________________________
 This section introduces the concept of a Landraces gap analysis (LGA) using a presentation and it provides the differences between CWRGA and LGA approaches.
 
 Slides:
-- [Foundations of Landraces Gap Analysis (LGA)]()
+- [Foundations of Landraces Gap Analysis (LGA)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/Day_5-Landrace_gap_analysis_intro.pptx.pdf)
 
 ### Topic 3.4. Tutorial to perform a Landraces gap analysis using a shiny app
 This topic introduces the LGA toolbox, a Shiny app developed at CIAT to develop an LGA from scratch only requiring an occurrence data file. In this topic is provided an example using Triticum turgidum for Northern Africa using data downloaded from GBIF, Genesys and FAO WIEWS
 
 Content:
-- [Introduction to LGA toolbox]()
+- [Introduction to LGA toolbox](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/LGA_toolbox_day5.pptx.pdf)
   
 Tutorials:
-- [Tutorial to run a Landrace gap analysis using Triticum turgidum data for Northern Africa using GBIF, WIEWS; and Genesys data]()
+- [Tutorial to run a Landrace gap analysis using Triticum turgidum data for Northern Africa using GBIF, WIEWS; and Genesys data](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/Tutorial%20to%20perform%20a%20Landraces%20ex-situ%20gap%20analysis.pptx.pdf)
   
 Example dataset:
-- [Triticum turgidum example for a LGA]()
+- [Triticum turgidum example for a LGA](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/triticum_turgidum_to_process.csv)
 __________________________________________________________________
 #### Input data required:
 - [x] Occurrence data formatted for the GapAnalysis R package 
