@@ -182,15 +182,17 @@ Taxonomy is the most basic level of curation to be provided for a spatial analys
 - Curation of geographical coordinates data:
   Curation of geographical coordinates refers to the process of clean coordinates and only retains the useful data for your analysis purposes. In this step you can learn how to detect inconsistencies in geographical coordinates
 
-  Curation of coordinates data tutorial
-  - Concepts:
-  [The influence of spatial errors in species occurrence data used in distribution models](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2007.01408.x)
+- Curation of coordinates data tutorial:
+  
+  Concepts:
+    - [The influence of spatial errors in species occurrence data used in distribution models](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2007.01408.x)
 
   Tutorial
     - [Curation of coordinates data tutorial]()
 
   - Curation of environmental information
   Given that gap analysis requires the production of a Species Distribution model, the use of a set of predictors representing environmental conditions is required. Here, spatial predictors can be obtained as follows:
+
   Web resources:
   - [Worldclim.org](Worldclim.org) 
   - [CHELSA](https://www.chelsa-climate.org/)
@@ -323,8 +325,6 @@ Articles:
 - [Applications of ecogeography and geographic information systems in conservation and utilization of plant genetic resources](https://sjar.revistas.csic.es/index.php/sjar/article/view/1859)
 - [What are the roles of species distribution models in conservation planning?](https://www.cambridge.org/core/journals/environmental-conservation/article/what-are-the-roles-of-species-distribution-models-in-conservation-planning/E9A0278A64653CE1B1BE23B704C131A8)
 - [Predicting species distributions for conservation decisions](https://onlinelibrary.wiley.com/doi/10.1111/ele.12189)
-
-
 
 > # Outcomes obtained for module 2:
 > Stage 2. Obtain the potential distribution of a species considering if it is a landrace or a crop wild relatives
