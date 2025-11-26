@@ -431,8 +431,8 @@ Example dataset:
 - [Triticum turgidum example for a LGA]()
 __________________________________________________________________
 #### Input data required:
-- [] Occurrence data formatted for the GapAnalysis R package 
-- [] Define a geographical area due to LGA toolbox will perform the analysis from the scratch
+- [x] Occurrence data formatted for the GapAnalysis R package 
+- [x] Define a geographical area due to LGA toolbox will perform the analysis from the scratch
 __________________________________________________________________
 ## Steps required for a landrace gap analysis:
 
