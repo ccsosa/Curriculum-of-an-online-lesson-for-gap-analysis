@@ -59,7 +59,7 @@ Figure 1. Steps to conduct a gap analysis. This figure is mainly focused on crop
 # Curriculum structure
 The curriculum structure consists of the following:
 
-## [PART I Use of GIS Tools in Planning Germplasm Conservation](# PART I Use of GIS Tools in Planning Germplasm Conservation)
+## PART I Use of GIS Tools in Planning Germplasm Conservation]
  Use of GIS tools in planning germplasm conservation, including GIS use in germplasm bank collection data and model species distribution models using existing databases available online, which is divided into two modules:
 - ### Module 1. The Use of GIS Tools in Planning Conservation
 In this module, learners will be able to download and visualize geographical germplasm data. Gain skills to curate and prepare GIS data for species distribution modeling and gap analysis. Understand the relevance of GIS in plant germplasm conservation, and curate geographical, taxonomic and obtain environmental data to be used in species distribution models (SDMs), and gap analysis
@@ -400,7 +400,7 @@ CWR outcomes checklist
 Final Conservation Score tables (Metrics)
 Gap map
 __________________________________________________________________
-Topic 3.3. Landraces Gap Analysis foundations
+### Topic 3.3. Landraces Gap Analysis foundations
 This section introduces the concept of a Landraces gap analysis (LGA) using a presentation and it provides the differences between CWRGA and LGA approaches.
 Slides:
 Foundations of Landraces Gap Analysis (LGA) 
@@ -414,9 +414,9 @@ Tutorial to run a Landrace gap analysis using Triticum turgidum data for Norther
 Example dataset:
 Triticum turgidum example for a LGA
 __________________________________________________________________
-Input data required:
-Occurrence data formatted for the GapAnalysis R package 
-Define a geographical area due to LGA toolbox will perform the analysis from the scratch
+#Input data required:
+- [] Occurrence data formatted for the GapAnalysis R package 
+- [] Define a geographical area due to LGA toolbox will perform the analysis from the scratch
 __________________________________________________________________
 Steps required for a landrace gap analysis:
 Template:
@@ -440,110 +440,92 @@ Gap map with three assessment layers
 Coverage metrics
 ________________________________________________________________
 
-
-
-
 Outcomes obtained:
+```diff
 Stage 3. Sample germplasm occurrences into the realized niche using different approaches (CWR: Buffer; Landrace: Accessibility + Environment + Geography)
 Stage 4. Obtain the gap areas to collect germplasm material including planning collecting missions
+```
 
-__________________________________________________________________
+<img width="600" height="300" alt="Diapositiva10" src="https://github.com/user-attachments/assets/d26bc2da-5248-4790-be8c-fc347d0cfad5" />
+______________________________________________________
 
-Module 4. Preparing strategies to collect new plant materials (3-5 Hours)
+## Module 4. Preparing strategies to collect new plant materials (3-5 Hours)
 This module introduces post-gap analysis steps,which consist of visualizing the gap analysis results, determining caveats in the results, and finally providing alternatives to gap analysis and possible subsequent steps, such as collecting missions. 
 Topics:
-4.1.) Visualization of gap analysis results
-4.2.) Determining caveats in results
-4.3.) Alternatives to gap analysis:
+- 4.1.) Visualization of gap analysis results
+-  4.2.) Determining caveats in results
+- 4.3.) Alternatives to gap analysis:
 
 Learning outcomes:
-Visualize gap analysis results
-Curate gap analysis results
-Familiarize with other options to gap analysis
+- Visualize gap analysis results
+- Curate gap analysis results
+- Familiarize with other options to gap analysis
 
-Topic 4.1. Visualization of gap analysis results
+### Topic 4.1. Visualization of gap analysis results
 This section consists of gap analysis visualization and possible tools to determine the validity of the results and collect missions using Google Maps. It includes the use of the Gap Analysis Viewer tool. Nevertheless, the visualization of results can be done using GIS software such as R, ArcGIS or QGIS.
 Content:
-Gap Analysis Viewer tool introduction
+- [Gap Analysis Viewer tool introduction]()
 Web resource:
-Gap Analysis Viewer tool
+- [Gap Analysis Viewer tool]()
 Tutorial:
-Tutorial to upload results to Gap Analysis Viewer tool
+- [Tutorial to upload results to Gap Analysis Viewer tool]()
 
-Topic 4.2. Curate gap analysis results
+### Topic 4.2. Curate gap analysis results
 As a germplasm collector or data analyst, you need to be careful about the outcomes of a gap analysis. After finishing a CWRGA or a LGA go for the following validation questions: 
 Are the potential areas coherent with the previous knowledge of the species? -> (Coherence)
 Are previous collecting areas represented as red in the map? -> (Omission errors)
 Are there missing areas where you know the species is present? - > (Commission errors)
 Please see the following content for more context:
 Complementary video:
-Differences between Error of Omission and Error of Commission
+- [Differences between Error of Omission and Error of Commission]()
 Optional:
-Limitations and trade-offs in the use of species distribution maps for protected area planning
+- [Limitations and trade-offs in the use of species distribution maps for protected area planning]()
 How to interpret CWRGA results?:
-Tutorial to run a Crop Wild Relatives Gap Analysis
-GapAnalysis: an R package to calculate conservation indicators using spatial information
+- [Tutorial to run a Crop Wild Relatives Gap Analysis]()
+- [GapAnalysis: an R package to calculate conservation indicators using spatial information]()
 How to interpret LGA results?:
-Landrace gap analysis Introduction (Slide 13).
+- [Landrace gap analysis Introduction (Slide 13).]()
 
 Caveats (Table 2):
 Table 2. Possible caveats reported for Crop Wild Relatives Gap Analysis (CWRGA) and Landraces Gap analysis (LGA).
-Common pitfalls
-CWRGA
-LGA
-Geographic data
-Highly dependent of the quality of geographic data
-Highly dependent of the quality of geographic data
-Environmental data
-Based on bioclimatic data mainly
-The socioeconomic factors can affect the species distribution model
-Not available data
-It is necessary to include for the calculation of the Sample Representativeness score
-Only passport data with coordinates is accepted
-Few coordinates data
-The method can fail if there are no Germplasm data to create buffers
-The method can fail for endemic species
-No germplasm data
-The Species distribution is considered as the gap map and the target species must be considered as urgent priority for collecting
-The method only will proceed to create a SDM
-Background (pseudoabsences)
-The user must carefully select the pseudo-absences for modelling (e.g. The user can obtain a total different model using a different set of pseudo-absences)
-LGA toolbox works better with a big geographical extent
-Sources
-CWR are easier to identify in databases than landraces. Please be careful
-Landraces need to grouped in clusters or use the complete species information
-Geographical extent
-Limited to native areas
-Dependent of the user needs
-
+| Common pitfalls             | CWRGA                                                                                                                                                        | LGA                                                                           |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| Geographic data             | Highly dependent of the quality of geographic data                                                                                                           | Highly dependent of the quality of geographic data                            |
+| Environmental data          | Based on bioclimatic data mainly                                                                                                                             | The socioeconomic factors can affect the species distribution model           |
+| Not available data          | It is necessary to include for the calculation of the Sample Representativeness score                                                                        | Only passport data with coordinates is accepted                               |
+| Few coordinates data        | The method can fail if there are no Germplasm data to create buffers                                                                                         | The method can fail for endemic species                                       |
+| No germplasm data           | The Species distribution is considered as the gap map and the target species must be considered as urgent priority for collecting                            | The method only will proceed to create a SDM                                  |
+| Background (pseudoabsences) | The user must carefully select the pseudo-absences for modelling (e.g. The user can obtain a total different model using a different set of pseudo-absences) | LGA toolbox works better with a big geographical extent                       |
+| Sources                     | CWR are easier to identify in databases than landraces. Please be careful                                                                                    | Landraces need to grouped in clusters or use the complete species information |
+| Geographical extent         | Limited to native areas                                                                                                                                      | Dependent of the user needs                                                   |
 
 __________________________________________________________________
-Gap analysis curation and visualization checklist
-Gap analysis raster files
-Visualization online
-A possible collecting route
+## Gap analysis curation and visualization checklist
+- [x] Gap analysis raster files
+- [x] Visualization online
+- [x] A possible collecting route
 __________________________________________________________________
-Topic 4.3.) Alternatives to gap analysis
+### Topic 4.3.) Alternatives to gap analysis
 As gap analysis consists of occurrence curated data and provides a species distribution model, some alternatives are presented and some pieces of advice are provided for your data such as new methods or countries inventories.
 A distance based method:
-A distance-based framework for assessing the ex-situ conservation status of plants
+- [A distance-based framework for assessing the ex-situ conservation status of plants]()
 In-situ Gap Analysis
-Comprehensiveness of conservation of useful wild plants: An operational indicator for biodiversity and sustainable development targets
+- [Comprehensiveness of conservation of useful wild plants: An operational indicator for biodiversity and sustainable development targets]()
 Ecological Gap Analysis: 
 Data:
-Data for the calculation of an indicator of the comprehensiveness of conservation of useful wild plants
+- [Data for the calculation of an indicator of the comprehensiveness of conservation of useful wild plants]()
 Software:
-GapAnalysis R package
-CAPFITOGEN tools
+- [GapAnalysis R package]()
+- [CAPFITOGEN tools]()
 __________________________________________________________________
-Final outcomes checklist
-Download and curate data for a CWRGA or a LGA
-Create a Species distribution model 
-Execute complete gap analysis from raw data
-Validate results against biological and ecological knowledge
-Detect and potential areas for collecting
-Create a possible route for collecting
-Detect possible alternatives for an ex-situ gap analysis
+## Final outcomes checklist
+- [x] Download and curate data for a CWRGA or a LGA
+- [x] Create a Species distribution model 
+- [x] Execute complete gap analysis from raw data
+- [x] Validate results against biological and ecological knowledge
+- [x] Detect and potential areas for collecting
+- [x] Create a possible route for collecting
+- [x] Detect possible alternatives for an ex-situ gap analysis
 
 ---
 # PART III. Bibliography
