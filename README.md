@@ -55,7 +55,6 @@ This document follows the logical sequence shown in Figure 1, which describes th
 <img width="1280" height="720" alt="Presentación1" src="https://github.com/user-attachments/assets/397c8f67-c624-437e-b83a-8788da23772f" />
 Figure 1. Steps to conduct a gap analysis. This figure is mainly focused on crop wild relatives gap analysis but conceptually describes the foundations of landrace analysis as well. A.) Obtain Species occurrences (Germplasm + Herbarium data visualized in a geographical space) B.) Model the species distribution model (white rectangle) into the possible geographical space, represented in blue. C.) Creating buffers around the germplasm occurrences into the realized niche or available space for a species and D.) A representation of places to collect germplasm samples represented in gray into the species distribution model
 
----
 # Curriculum structure
 The curriculum structure consists of the following:
 
@@ -91,7 +90,6 @@ In this module, learners will visualize and curate gap analysis results using th
   - 4.3. Alternatives to gap analysis
 
 ## PART III. Bibliography
----
 
 # Stages of the gap analysis:
 A gap analysis, either a Crop Wild Relative Gap Analysis (CWRGA) or Landrace Gap Analysis (LGA), can be divided into four stages: 
@@ -116,12 +114,7 @@ A gap analysis, either a Crop Wild Relative Gap Analysis (CWRGA) or Landrace Gap
 > If needed, please refer to the following guides for installing R, RStudio, and the necessary packages.
 >  - [R guide to download and install packages](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Pre-course%20Mini%20Bootcamp/Day_2-R_basics.pdf)
 >  - [R Basics video](https://www.youtube.com/watch?v=_V8eKsto3Ug)
->  - Please ensure that the following packages are installed. Copy and paste these code lines into the R console.
-```
-install.packages("pacman")
-library(pacman)
-pacman::p_load(tidyverse,terra,sf,readxl,readr,writexl,geodata,tmap,leaflet,remotes)
-```
+>  - Please ensure that the following packages are installed. Copy and paste these code lines into the R console: ``` install.packages("pacman");library(pacman);pacman::p_load(tidyverse,terra,sf,readxl,readr,writexl,geodata,tmap,leaflet,remotes)```
 
 ## Pre-course Mini Bootcamp (3-4 hours)
 This section includes a small introduction to the foundations of basic knowledge required to perform spatial analysis and operations using the R programming language
