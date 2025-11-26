@@ -170,7 +170,7 @@ Herbarium databases:
 - [GBIF (Global Biodiversity Information Facility)](https://www.gbif.org/)
 - [iDigBio (Integrated Digitized Biocollections)](https://www.idigbio.org/)
 
-## Topic 1.3) How to curate GIS data from germplasm data or a biodiversity data
+### Topic 1.3) How to curate GIS data from germplasm data or a biodiversity data
 This topic presents a set of useful databases for the curation of plant taxonomics, environment, and coordinates cleaning required for a replicable and high-quality study. 
 - Curation of taxonomic data
 Taxonomy is the most basic level of curation to be provided for a spatial analysis. Species names are not static; they evolve and change according to new molecular and morphological data. Fortunately, there are online taxonomical resources to determine whether your target species is a synonym, an accepted name, or invalid. (e.g. *Pennisetum glaucum* is now *Cenchrus americanus*).
@@ -213,7 +213,7 @@ Taxonomy is the most basic level of curation to be provided for a spatial analys
 > A good raster predictor resolution is usually 5 km. This is convenient for subcontinental to continental scales. We highly advise you to avoid high-resolution rasters, such as 1 km or less, unless it is convenient for your species. The higher the resolution, the greater the computer resources used. 
 
 
-## Topic 1.4) Prepare your data to model a species distribution and for gap analysis
+### Topic 1.4) Prepare your data to model a species distribution and for gap analysis
 Consider the following steps when curating your germplasm passport data (Figure 2). 
 - Step 1.) Define whether your target species is a landrace or a crop wild relatives:
 - Step 2.) Search your data in occurrence databases and split them into germplasm (G) and herbarium for other sources (H).
@@ -273,53 +273,64 @@ Learning outcomes:
 
 ## Topic 2.1.) What is a niche and what is a species distribution model?, and how to model a species distribution model? (Foundations)
 This section introduces the foundations of what is a model and what is a species distribution model using the ODMAP approach: Overview, Data, Model fitting, Assessment, Prediction. Also, this topic includes some examples of modeling a species distribution model using MaxEnt and R
+
 Content and articles:
-SDM slides
-Species’ Distribution Modeling for Conservation Educators and Practitioners
-A standard protocol for reporting species distribution models
-Maximum entropy modeling of species geographic distributions
+- [SDM slides]()
+- [Species’ Distribution Modeling for Conservation Educators and Practitioners]()
+- [A standard protocol for reporting species distribution models]()
+- [Maximum entropy modeling of species geographic distributions]()
+  
 Tutorials:
-Introduction to Species Distribution Modeling Using R
-MaxEnt tutorial step by step
-A very brief introduction to species distribution models in R
+- [Introduction to Species Distribution Modeling Using R]()
+- [MaxEnt tutorial step by step]()
+- [A very brief introduction to species distribution models in R]()
+  
 Threshold article (Recommended)
-Multiple Threshold-Selection Methods Are Needed to Binarise Species Distribution Model Predictions
+- [Multiple Threshold-Selection Methods Are Needed to Binarise Species Distribution Model Predictions]()
+  
 Optional articles:
-On the selection of thresholds for predicting species occurrence with presence‐only data
-The effects of small sample size and sample bias on threshold selection and accuracy assessment of species distribution models
+- [On the selection of thresholds for predicting species occurrence with presence‐only data]()
+- [The effects of small sample size and sample bias on threshold selection and accuracy assessment of species distribution models]()
+  
 Tutorial data:
-Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys
+- [Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys]()
+  
 Tutorial:
-SDM slides tutorial using B. gasipaes data (slides 53-77)
+- [SDM slides tutorial using B. gasipaes data (slides 53-77)]()
 
 ## Topic 2.2) Examples using MaxEnt, Wallace, enmsdmX, and ENMEval
 This section provides a detailed tutorial on modeling species distribution using MaxEnt. MaxEnt is the gold standard algorithm for species distribution because of its capability to use pseudoabsences and only presence records. Thus, some resources are provided to use MaxEnt, such as Wallace. Wallace is an R platform that allows modeling a specific species distribution using a local computer and a Shiny app (a browser-based form to run a program in R, which is convenient for beginner users and for those users new to the modeling tasks. It is provided for advanced users as a tutorial of the package enmSdmX and ENMEval (We highly suggest using this approach to obtain accurate species distribution models). 
+
 Articles and websites:
-Maximum entropy modeling of species geographic distributions
+- [Maximum entropy modeling of species geographic distributions]()
+  
 Web resources:
-MaxEnt website
+- [MaxEnt website]()
+  
 Tutorials:
-A Brief Tutorial on Maxent
-A curated list of R packages for ecological niche modelling
-Wallace R package tutorial
-enmSdmX website 
-ENMeval tutorial
+- [A Brief Tutorial on Maxent]()
+- [A curated list of R packages for ecological niche modelling]()
+- [Wallace R package tutorial]()
+- [enmSdmX website ]()
+- [ENMeval tutorial]()
 
 ## Topic 2.3) Background effect
 Only presence algorithms, such as MaxEnt, allow the use of records curated from biological collections, such as museums, herbariums, or germplasm collections, compared with a set of points in the geographical study area to obtain suitability maps. Nevertheless, the selection of pseudo-absences is critical for obtaining a good model. Thus, the two following lectures are provided for users to know some useful approaches to obtain an accurate species distribution.
+
 Articles:
-Target-group backgrounds prove effective at correcting sampling bias in Maxent models
-Environmental filters reduce the effects of sampling bias and improve predictions of ecological niche models
+- [Target-group backgrounds prove effective at correcting sampling bias in Maxent models]()
+- [Environmental filters reduce the effects of sampling bias and improve predictions of ecological niche models]()
 
 
 
 
 ## Topic 2.4) Practical use of SDMs in conservation
 In this section, a set of lectures is introduced to teach the learning of ecological reasoning using species distribution in conservation decision uses, as is the case of the ex-situ gap analysis provided in the module three.
+
 Articles:
--Review. Applications of ecogeography and geographic information systems in conservation and utilization of plant genetic resources
-What are the roles of species distribution models in conservation planning?
-Predicting species distributions for conservation decisions
+- [Applications of ecogeography and geographic information systems in conservation and utilization of plant genetic resources]()
+- [What are the roles of species distribution models in conservation planning?]()
+- [Predicting species distributions for conservation decisions]()
 
 __________________________________________________________________
 Outcomes obtained:
