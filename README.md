@@ -326,6 +326,7 @@ Articles:
 > # Outcomes obtained:
 > Stage 2. Obtain the potential distribution of a species considering if it is a landrace or a crop wild relatives
 > <img width="600" height="300" alt="Diapositiva8" src="https://github.com/user-attachments/assets/4330c8fc-720d-484e-863c-041075b52343" />
+
 ---
 # PART II. Gap Analysis
 ## Module 3. Gap Analysis (10-12 hours)
@@ -474,10 +475,10 @@ This section consists of gap analysis visualization and possible tools to determ
 
 Content:
 - [Gap Analysis Viewer tool introduction]()
-- 
+  
 Web resource:
 - [Gap Analysis Viewer tool]()
-- 
+  
 Tutorial:
 - [Tutorial to upload results to Gap Analysis Viewer tool]()
 
@@ -488,7 +489,7 @@ After finishing a CWRGA or a LGA go for the following validation questions:
 - Are the potential areas coherent with the previous knowledge of the species? -> (Coherence)
 - Are previous collecting areas represented as red in the map? -> (Omission errors)
 - Are there missing areas where you know the species is present? - > (Commission errors)
-- 
+  
 Please see the following content for more context:
 
 Complementary video:
@@ -504,7 +505,8 @@ How to interpret CWRGA results?:
 How to interpret LGA results?:
 - [Landrace gap analysis Introduction (Slide 13).]()
 
-Caveats (Table 2):
+## Caveats (Table 2):
+
 Table 2. Possible caveats reported for Crop Wild Relatives Gap Analysis (CWRGA) and Landraces Gap analysis (LGA).
 | Common pitfalls             | CWRGA                                                                                                                                                        | LGA                                                                           |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
@@ -525,11 +527,14 @@ __________________________________________________________________
 __________________________________________________________________
 ### Topic 4.3. Alternatives to gap analysis
 As gap analysis consists of occurrence curated data and provides a species distribution model, some alternatives are presented and some pieces of advice are provided for your data such as new methods or countries inventories.
+
 A distance based method:
 - [A distance-based framework for assessing the ex-situ conservation status of plants]()
+  
 In-situ Gap Analysis
 - [Comprehensiveness of conservation of useful wild plants: An operational indicator for biodiversity and sustainable development targets]()
-Ecological Gap Analysis: 
+- [Ecological Gap Analysis]()
+
 Data:
 - [Data for the calculation of an indicator of the comprehensiveness of conservation of useful wild plants]()
 Software:
