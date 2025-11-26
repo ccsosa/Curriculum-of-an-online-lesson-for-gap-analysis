@@ -53,7 +53,7 @@ Permissions: You must have Administrative rights to install software
 This document follows the logical sequence shown in Figure 1, which describes the four stages of conducting a gap analysis. Stages 1 and 2 are described in the first two modules, and Stages 3 and 4 are described in Module 3. Along with the document, you will find resources such as tutorials, presentations, videos, and software to obtain gap analysis results.
 
 <img width="1280" height="720" alt="Presentación1" src="https://github.com/user-attachments/assets/397c8f67-c624-437e-b83a-8788da23772f" />
-Figure 1. Steps to conduct a gap analysis. This figure is mainly focused on crop wild relatives gap analysis but conceptually describes the foundations of landrace analysis as well. A.) Obtain Species occurrences (Germplasm + Herbarium data visualized in a geographical space) B.) Model the species distribution model (white rectangle) into the possible geographical space, represented in blue. C.) Creating buffers around the germplasm occurrences into the realized niche or available space for a species and D.) A representation of places to collect germplasm samples represented in gray into the species distribution model
+**Figure 1.** Steps to conduct a gap analysis. This figure is mainly focused on crop wild relatives gap analysis but conceptually describes the foundations of landrace analysis as well. A.) Obtain Species occurrences (Germplasm + Herbarium data visualized in a geographical space) B.) Model the species distribution model (white rectangle) into the possible geographical space, represented in blue. C.) Creating buffers around the germplasm occurrences into the realized niche or available space for a species and D.) A representation of places to collect germplasm samples represented in gray into the species distribution model
 
 # Curriculum structure
 The curriculum structure consists of the following:
@@ -147,8 +147,9 @@ Learning outcomes
 GIS use is relevant for the development of collecting missions of a plant germplasm bank because each accession of a collection represents the diversity of a group of crop wild relatives or landraces. Therefore, it is important to map the accession collection, including the country, administrative information, and localities.
 
 - A good starting point for the use of GIS in germplasm data is related to the following document
+
 Concepts:
-[Review. Applications of ecogeography and geographic information systems in conservation and utilization of plant genetic resources](https://sjar.revistas.csic.es/index.php/sjar/article/view/1859)
+- [Applications of ecogeography and geographic information systems in conservation and utilization of plant genetic resources](https://sjar.revistas.csic.es/index.php/sjar/article/view/1859)
 
 ### Topic 1.2. Species occurrences databases: 
 Over the decades, geographical biodiversity information has become relevant for conservation and biotechnology. Currently, global initiatives have created open-access databases that can be used to gather occurrence data on plant genetic resources. 
@@ -182,11 +183,11 @@ Taxonomy is the most basic level of curation to be provided for a spatial analys
   Curation of geographical coordinates refers to the process of clean coordinates and only retains the useful data for your analysis purposes. In this step you can learn how to detect inconsistencies in geographical coordinates
 
   Curation of coordinates data tutorial
-  
   - Concepts:
   [The influence of spatial errors in species occurrence data used in distribution models](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2007.01408.x)
+
   Tutorial
-  [Curation of coordinates data tutorial]()
+    - [Curation of coordinates data tutorial]()
 
   - Curation of environmental information
   Given that gap analysis requires the production of a Species Distribution model, the use of a set of predictors representing environmental conditions is required. Here, spatial predictors can be obtained as follows:
@@ -214,9 +215,8 @@ Consider the following steps when curating your germplasm passport data (Figure 
 - Step 3.) Proceed to clean up your occurrences data 
 - Step 4.) Format your data for a species distribution and gap analysis
   
-
 <img width="1020" height="931" alt="image" src="https://github.com/user-attachments/assets/71452dde-11a6-437a-9e7f-7e9dedd958eb" />
-Figure 2. Workflow to curate and clean up geographical records from species occurrences databases consisting of four steps: Step 1.) Define whether your target species is a landrace or a crop wild relative. Step 2.) Search your data in occurrences databases and split in germplasm (G) and Herbarium for other sources (H). Step 3.) Proceed to clean your occurrence data. Step 4.) Format your data for a species distribution and gap analysis
+**Figure 2.** Workflow to curate and clean up geographical records from species occurrences databases consisting of four steps: Step 1.) Define whether your target species is a landrace or a crop wild relative. Step 2.) Search your data in occurrences databases and split in germplasm (G) and Herbarium for other sources (H). Step 3.) Proceed to clean your occurrence data. Step 4.) Format your data for a species distribution and gap analysis
 
 Curation steps
 - Step 1.) Define if your target species is a landrace or a crop wild relative:
@@ -252,6 +252,7 @@ Data sources:
 
 ## Module 2. Introduction to species distribution models (16-20 hours)
 A species can inhabit a physical space where it has the ecological conditions to survive. A species distribution model aims to predict the area using the niche concept as a basis. The main task of this module is to find that species distribution.
+
 Topics:
 - 2.1.) What is a niche and what is a model?, and how to model a species distribution model? (Foundations)
 - 2.2.) Examples using Wallace
@@ -332,7 +333,7 @@ Articles:
 ## Module 3. Gap Analysis (10-12 hours)
 A gap analysis in genebanks is a systematic method aimed at identifying deficiencies in the representation of genetic resources, specifically plant germplasm within ex situ conservation collections. This analysis targets both the geographical and genetic representation of accessions, assisting genebanks in prioritizing the collection efforts for Crop Wild Relatives and landraces. Before start your journey to obtain areas for collecting please check the following table (Table 1) that compare Crop Wild Relatives and Landraces Gap Analysis approaches
 
-Table 1. Comparisons between Crop Wild Relatives (CWRGA) and Landraces Gap Analysis (LGA) approaches using nine categories of use.
+**Table 1.** Comparisons between Crop Wild Relatives (CWRGA) and Landraces Gap Analysis (LGA) approaches using nine categories of use.
 ### Comparison Table: Crop Wild Relatives vs. Landraces
 
 | **Category**              | **Crop Wild Relatives**                                                                 | **Landraces**                                                                                                                     |
@@ -507,7 +508,7 @@ How to interpret LGA results?:
 
 ## Caveats (Table 2):
 
-Table 2. Possible caveats reported for Crop Wild Relatives Gap Analysis (CWRGA) and Landraces Gap analysis (LGA).
+**Table 2.** Possible caveats reported for Crop Wild Relatives Gap Analysis (CWRGA) and Landraces Gap analysis (LGA).
 | Common pitfalls             | CWRGA                                                                                                                                                        | LGA                                                                           |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
 | Geographic data             | Highly dependent of the quality of geographic data                                                                                                           | Highly dependent of the quality of geographic data                            |
