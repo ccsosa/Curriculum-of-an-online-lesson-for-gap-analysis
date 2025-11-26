@@ -559,66 +559,70 @@ Validate results against biological and ecological knowledge
 Detect and potential areas for collecting
 Create a possible route for collecting
 Detect possible alternatives for an ex-situ gap analysis
-__________________________________________________________________
-PART III. Bibliography
+
+---
+# PART III. Bibliography
 In this section, you will find relevant literature, optional and recommended, related to the modules and topics that can enrich the experience of the analysis with real examples and applications in several food crops.
 Foundations (Required literature):
-Crop Wild Relatives gap analysis (Required literature)
-A Gap Analysis Methodology for Collecting Crop Genepools: A Case Study with Phaseolus Beans
-Landraces gap analysis (Required literature):
-A gap analysis modelling framework to prioritize collecting for ex situ conservation of crop landraces
-Landraces and Crop Wild Relatives related bibliography (Recommended)
-Crop Wild Relatives:
-Gap analysis: a tool for complementary genetic conservation assessment
-Distribution and ecology of wild lettuces Lactuca serriola... 
-GapAnalysis: an R package to calculate conservation indicators using spatial information
-Research Gaps and Challenges in the Conservation and Use of North American Wild Lettuce Germplasm - Lebeda - 2019 - Crop Science - Wiley Online Library 
-Comprehensiveness of conservation of useful wild plants: An operational indicator for biodiversity and sustainable development targets - ScienceDirect 
-Crop wild relatives of the brinjal eggplant (Solanum melongena): Poorly represented in genebanks and many species at risk of extinction
-Global conservation priorities for crop wild relatives | Nature Plants 
-Frontiers | Ecogeography and utility to plant breeding of the crop wild relatives of sunflower (Helianthus annuus L.) 
-Crop wild relatives of pigeonpea [Cajanus cajan (L.) Millsp.]: Distributions, ex situ conservation status, and potential genetic resources for abiotic stress tolerance - ScienceDirect 
-Frontiers | Distributions, ex situ conservation priorities, and genetic resource potential of crop wild relatives of sweetpotato [Ipomoea batatas (L.) Lam., I. series Batatas] 
-A Gap Analysis Methodology for Collecting Crop Genepools: A Case Study with Phaseolus Beans | PLOS ONE 
-Modelled distributions and conservation status of the wild relatives of chile peppers (Capsicum L.)
-In-situ and ex-situ conservation priorities and distribution of lentil wild relatives under climate change: A modelling approach
-Landraces:
-State of ex situ conservation of landrace groups of 25 major crops | Nature Plants 
-A gap analysis modelling framework to prioritize collecting for ex situ conservation of crop landraces - Ramirez‐Villegas - 2020 - Diversity and Distributions - Wiley Online Library
 
-Taxonomy occurrence databases, and predictors data (Optional):
-World Flora Online: Placing taxonomists at the heart of a definitive and comprehensive global resource on the world's plants
-The global human settlement layer sets a new standard for global urban data reporting with the urban centre database
-Data Curation (Recommended):
-Spatial Data Quality Checks
-Biodiversity informatics: managing and applying primary biodiversity data
-Resolution in species distribution models shapes spatial patterns of plant multifaceted diversity
-Species distribution models (Optional/Advanced):
-Predictive habitat distribution models in ecology
-Species Distribution Models: Ecological Explanation and Prediction Across Space and TimeWallace: A flexible platform for reproducible modeling of species niches and distributions built for community expansion
-A standard protocol for reporting species distribution models
-The art of modelling range-shifting species
-Wallace: A flexible platform for reproducible modeling of species niches and distributions built for community expansion
-Including imprecisely georeferenced specimens improves accuracy of species distribution models and estimates of niche breadth
-ENMeval: An R package for conducting spatially independent evaluations and estimating optimal model complexity for Maxent ecological niche models
-ENMeval 2.0: Redesigned for customizable and reproducible modeling of species’ niches and distributions
-Multiple Threshold-Selection Methods Are Needed to Binarise Species Distribution Model Predictions
-A new threshold selection method for species distribution models with presence-only data: Extracting the mutation point of the P/E curve by threshold regression
-Modelling the potential range of Agrilus planipennis in Europe according to current and future climate conditions
-Choice of threshold alters projections of species range shifts under climate change
-GIS in Germplasm Conservation (Optional):
-Geographic information systems (GIS) and the conservation and use of plant genetic resources.
-Crop Wild Relatives and Landraces (Optional):
-Voluntary Guidelines for the Conservation and Sustainable Use of Crop Wild Relatives and Wild Food Plants
-Modeling of crop wild relative species identifies areas globally for in situ conservation
-Spatial Analysis for Crop Genetic Resources Conservation Selected Approaches for In and Ex Situ Efforts
-The big four of plant taxonomy – a comparison of global checklists of vascular plant names
-A.8. Gap analysis of priority CWR
-B.8. Gap analysis of priority landraces
-Resource Book for the Preparation of National Plans for Conservation of Crop Wild Relatives and Land
-Collecting wild potato species (Solanum sect. Petota) in Peru to enhance genetic representation and fill gaps in ex situ collections
-Phylogenetic diversity and conservation of crop wild relatives in Colombia
-Alternatives to gap analysis
+## Crop Wild Relatives gap analysis (Required literature)
+- [A Gap Analysis Methodology for Collecting Crop Genepools: A Case Study with Phaseolus Beans](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013497)
+
+## Landraces gap analysis (Required literature):
+- [A gap analysis modelling framework to prioritize collecting for ex situ conservation of crop landraces](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13046)
+
+## Landraces and Crop Wild Relatives related bibliography (Recommended)
+### Crop Wild Relatives:
+- [Gap analysis: a tool for complementary genetic conservation assessment]()
+- [Distribution and ecology of wild lettuces Lactuca serriola... ]()
+- [GapAnalysis: an R package to calculate conservation indicators using spatial information]()
+- [Research Gaps and Challenges in the Conservation and Use of North American Wild Lettuce Germplasm - Lebeda - 2019 - Crop Science - Wiley Online Library ]()
+- [Comprehensiveness of conservation of useful wild plants: An operational indicator for biodiversity and sustainable development targets - ScienceDirect ]()
+- [Crop wild relatives of the brinjal eggplant (Solanum melongena): Poorly represented in genebanks and many species at risk of extinction]()
+- [Global conservation priorities for crop wild relatives | Nature Plants ]()
+- [Frontiers | Ecogeography and utility to plant breeding of the crop wild relatives of sunflower (Helianthus annuus L.)]()
+- [Crop wild relatives of pigeonpea [Cajanus cajan (L.) Millsp.]: Distributions, ex situ conservation status, and potential genetic resources for abiotic stress tolerance - ScienceDirect]()
+- [Frontiers | Distributions, ex situ conservation priorities, and genetic resource potential of crop wild relatives of sweetpotato [Ipomoea batatas (L.) Lam., I. series Batatas]()
+- [A Gap Analysis Methodology for Collecting Crop Genepools: A Case Study with Phaseolus Beans | PLOS ONE]()
+- [Modelled distributions and conservation status of the wild relatives of chile peppers (Capsicum L.)]()
+- [In-situ and ex-situ conservation priorities and distribution of lentil wild relatives under climate change: A modelling approach]()
+### Landraces:
+- [State of ex situ conservation of landrace groups of 25 major crops | Nature Plants 
+- [A gap analysis modelling framework to prioritize collecting for ex situ conservation of crop landraces - Ramirez‐Villegas - 2020 - Diversity and Distributions - Wiley Online Library
+
+### Taxonomy occurrence databases, and predictors data (Optional):
+- [World Flora Online: Placing taxonomists at the heart of a definitive and comprehensive global resource on the world's plants]()
+- [The global human settlement layer sets a new standard for global urban data reporting with the urban centre database]()
+### Data Curation (Recommended):
+- [Spatial Data Quality Checks]()
+- [Biodiversity informatics: managing and applying primary biodiversity data]()
+- [Resolution in species distribution models shapes spatial patterns of plant multifaceted diversity]()
+### Species distribution models (Optional/Advanced):
+- [Predictive habitat distribution models in ecology]()
+- [Species Distribution Models: Ecological Explanation and Prediction Across Space and TimeWallace: A flexible platform for reproducible modeling of species niches and distributions built for community expansion]()
+- [A standard protocol for reporting species distribution models]()
+- [The art of modelling range-shifting species]()
+- [Wallace: A flexible platform for reproducible modeling of species niches and distributions built for community expansion]()
+- [Including imprecisely georeferenced specimens improves accuracy of species distribution models and estimates of niche breadth]()
+- [ENMeval: An R package for conducting spatially independent evaluations and estimating optimal model complexity for Maxent ecological niche models]()
+- [ENMeval 2.0: Redesigned for customizable and reproducible modeling of species’ niches and distributions]()
+- [Multiple Threshold-Selection Methods Are Needed to Binarise Species Distribution Model Predictions]()
+- [A new threshold selection method for species distribution models with presence-only data: Extracting the mutation point of the P/E curve by threshold regression]()
+- [Modelling the potential range of Agrilus planipennis in Europe according to current and future climate conditions]()
+- [Choice of threshold alters projections of species range shifts under climate change]()
+### GIS in Germplasm Conservation (Optional):
+- [Geographic information systems (GIS) and the conservation and use of plant genetic resources.]()
+### Crop Wild Relatives and Landraces (Optional):
+- [Voluntary Guidelines for the Conservation and Sustainable Use of Crop Wild Relatives and Wild Food Plants]()
+- [Modeling of crop wild relative species identifies areas globally for in situ conservation]()
+- [Spatial Analysis for Crop Genetic Resources Conservation Selected Approaches for In and Ex Situ Efforts]()
+- [The big four of plant taxonomy – a comparison of global checklists of vascular plant names]()
+- [A.8. Gap analysis of priority CWR]()
+- [B.8. Gap analysis of priority landraces]()
+### Resource Book for the Preparation of National Plans for Conservation of Crop Wild Relatives and Land
+- [Collecting wild potato species (Solanum sect. Petota) in Peru to enhance genetic representation and fill gaps in ex situ collections]()
+- [Phylogenetic diversity and conservation of crop wild relatives in Colombia]()
+### Alternatives to gap analysis
 Optional:
-A set of simple decision matrices for prioritizing collection of rare plant species for ex situ conservation
+A- [ set of simple decision matrices for prioritizing collection of rare plant species for ex situ conservation]()
 
