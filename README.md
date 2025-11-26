@@ -248,7 +248,6 @@ Outcomes obtained:
 + Stage 1. Obtain Species occurrences (Germplasm + Herbarium data in a geographical space)
 ```
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/ccb7895a-9e14-4232-990b-4064968321cb" />
-
 __________________________________________________________________
 
 ## Module 2. Introduction to species distribution models (16-20 hours)
@@ -269,21 +268,21 @@ This section introduces the foundations of what is a model and what is a species
 
 Content and articles:
 - [SDM slides]()
-- [Species’ Distribution Modeling for Conservation Educators and Practitioners]()
-- [A standard protocol for reporting species distribution models]()
-- [Maximum entropy modeling of species geographic distributions]()
+- [Species’ Distribution Modeling for Conservation Educators and Practitioners](https://www.amnh.org/content/download/141368/2285424/file/species-distribution-modeling-for-conservation-educators-and-practitioners.pdf)
+- [A standard protocol for reporting species distribution models](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.04960)
+- [Maximum entropy modeling of species geographic distributions](https://www.sciencedirect.com/science/article/pii/S030438000500267X)
   
 Tutorials:
 - [Introduction to Species Distribution Modeling Using R]()
-- [MaxEnt tutorial step by step]()
-- [A very brief introduction to species distribution models in R]()
+- [MaxEnt tutorial step by step](https://www.youtube.com/watch?v=mKwIJr9ECWM)
+- [A very brief introduction to species distribution models in R](https://jcoliver.github.io/learn-r/011-species-distribution-models.html)
   
 Threshold article (Recommended)
-- [Multiple Threshold-Selection Methods Are Needed to Binarise Species Distribution Model Predictions]()
+- [Multiple Threshold-Selection Methods Are Needed to Binarise Species Distribution Model Predictions]([)](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.70019)
   
 Optional articles:
-- [On the selection of thresholds for predicting species occurrence with presence‐only data]()
-- [The effects of small sample size and sample bias on threshold selection and accuracy assessment of species distribution models]()
+- [On the selection of thresholds for predicting species occurrence with presence‐only data](https://onlinelibrary.wiley.com/doi/10.1002/ece3.1878)
+- [The effects of small sample size and sample bias on threshold selection and accuracy assessment of species distribution models](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1600-0587.2011.06545.x)
   
 Tutorial data:
 - [Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys]()
@@ -295,24 +294,24 @@ Tutorial:
 This section provides a detailed tutorial on modeling species distribution using MaxEnt. MaxEnt is the gold standard algorithm for species distribution because of its capability to use pseudoabsences and only presence records. Thus, some resources are provided to use MaxEnt, such as Wallace. Wallace is an R platform that allows modeling a specific species distribution using a local computer and a Shiny app (a browser-based form to run a program in R, which is convenient for beginner users and for those users new to the modeling tasks. It is provided for advanced users as a tutorial of the package enmSdmX and ENMEval (We highly suggest using this approach to obtain accurate species distribution models). 
 
 Articles and websites:
-- [Maximum entropy modeling of species geographic distributions]()
-  
+- [Maximum entropy modeling of species geographic distributions](https://www.sciencedirect.com/science/article/pii/S030438000500267X)
+- [A curated list of R packages for ecological niche modelling](https://www.sciencedirect.com/science/article/pii/S0304380022003404)
+
 Web resources:
-- [MaxEnt website]()
+- [MaxEnt website](https://biodiversityinformatics.amnh.org/open_source/maxent/)
   
 Tutorials:
-- [A Brief Tutorial on Maxent]()
-- [A curated list of R packages for ecological niche modelling]()
-- [Wallace R package tutorial]()
-- [enmSdmX website ]()
-- [ENMeval tutorial]()
+- [A Brief Tutorial on Maxent](https://biodiversityinformatics.amnh.org/open_source/maxent/Maxent_tutorial_2021.pdf)
+- [Wallace R package tutorial](https://wallaceecomod.github.io/wallace/articles/tutorial-v2.html)
+- [enmSdmX website ](https://adamlilith.r-universe.dev/enmSdmX/doc/manual.html)
+- [ENMeval tutorial](https://jamiemkass.github.io/ENMeval/articles/ENMeval-2.0-vignette.html)
 
 ## Topic 2.3. Background effect
 Only presence algorithms, such as MaxEnt, allow the use of records curated from biological collections, such as museums, herbariums, or germplasm collections, compared with a set of points in the geographical study area to obtain suitability maps. Nevertheless, the selection of pseudo-absences is critical for obtaining a good model. Thus, the two following lectures are provided for users to know some useful approaches to obtain an accurate species distribution.
 
 Articles:
-- [Target-group backgrounds prove effective at correcting sampling bias in Maxent models]()
-- [Environmental filters reduce the effects of sampling bias and improve predictions of ecological niche models]()
+- [Target-group backgrounds prove effective at correcting sampling bias in Maxent models](https://onlinelibrary.wiley.com/doi/10.1111/ddi.13442)
+- [Environmental filters reduce the effects of sampling bias and improve predictions of ecological niche models](https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0587.2013.00441.x)
 
 
 
@@ -321,9 +320,9 @@ Articles:
 In this section, a set of lectures is introduced to teach the learning of ecological reasoning using species distribution in conservation decision uses, as is the case of the ex-situ gap analysis provided in the module three.
 
 Articles:
-- [Applications of ecogeography and geographic information systems in conservation and utilization of plant genetic resources]()
-- [What are the roles of species distribution models in conservation planning?]()
-- [Predicting species distributions for conservation decisions]()
+- [Applications of ecogeography and geographic information systems in conservation and utilization of plant genetic resources](https://sjar.revistas.csic.es/index.php/sjar/article/view/1859)
+- [What are the roles of species distribution models in conservation planning?](https://www.cambridge.org/core/journals/environmental-conservation/article/what-are-the-roles-of-species-distribution-models-in-conservation-planning/E9A0278A64653CE1B1BE23B704C131A8)
+- [Predicting species distributions for conservation decisions](https://onlinelibrary.wiley.com/doi/10.1111/ele.12189)
 
 __________________________________________________________________
 Outcomes obtained:
@@ -370,90 +369,101 @@ Learning outcomes:
 
 ### Topic 3.1. Foundations of Crop Wild relatives ex-situ gap analysis
 This section presents the foundations of the Crop Wild Relatives gap analysis (CWRGA) in the form of a presentation and the case study for beans where the CWRGA is introduced.
+
 Web content:
-- What is a Gap Analysis?
+- [What is a Gap Analysis?](https://cwr.croptrust.org/project-components/gap-analysis/)
 
 Articles:
-- Article: Foundations of crop wild relatives gap analysis (CWRGA)
-- A Gap Analysis Methodology for Collecting Crop Genepools: A Case Study with Phaseolus Beans
+- [Article: Foundations of crop wild relatives gap analysis (CWRGA)]()
+- [A Gap Analysis Methodology for Collecting Crop Genepools: A Case Study with Phaseolus Beans](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013497)
 
 ### topic 3.2. Introduction to GapAnalysis R package to perform a Crop Wild Relatives Gap Analysis
 CWRGA is usually performed using an R package named GapAnalysis which is a compendium of the R code developed by the International Center for Tropical Agriculture (CIAT) for a decade. This topic introduces a tutorial step-by-step via the GapAnalysis R package and an example using Cucurbita cordata data.
-__________________________________________________________________
-Input data required:
-Occurrence data formatted for the GapAnalysis R package. Please keep the accessions without geographical coordinates to be used to calculate the Sample Representativeness Score (SRS)
-A species distribution model with a good predictability (for example AUC>0.7) and thresholded (The presence must be have value of 1)
 
+__________________________________________________________________
+#### Input data required:
+- [x] Occurrence data formatted for the GapAnalysis R package. Please keep the accessions without geographical coordinates to be used to calculate the Sample Representativeness Score (SRS)
+- [x] A species distribution model with a good predictability (for example AUC>0.7) and thresholded (The presence must be have value of 1)
+__________________________________________________________________
 > [!Note]
 >  The GapAnalysis R package is under maintenance nowadays and a version 2.0 is under development.
 > Please use the command:```remotes::install_github("CIAT-DAPA/GapAnalysis") to install from GitHub```
 
 Article:
-GapAnalysis R package
-Step 1: Use an Interpret GapAnalysis R results
-Data for CWRGA:
-Data for the calculation of an indicator of the comprehensiveness of conservation of useful wild plants
+- [GapAnalysis R package](https://github.com/CIAT-DAPA/GapAnalysis)
+- [Step 1): Use an Interpret GapAnalysis R results](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.05430)
+  
+Data for CWRGA (Ecoregions)  :
+- [Data for the calculation of an indicator of the comprehensiveness of conservation of useful wild plants](https://www.sciencedirect.com/science/article/pii/S235234091831518X)
+  
 Code:
-Step 2: Perform a CWRGA (Code for tutorial)
+- [Step 2): Perform a CWRGA (Code for tutorial)]()
+  
 Tutorial:
-Step3: Tutorial to run a Crop Wild Relatives Gap Analysis using an R code explained step by step
+- [Step3): Tutorial to run a Crop Wild Relatives Gap Analysis using an R code explained step by step]()
+- 
 Code:
-Extra: Code to run CWR gap analysis for multiple species and visualize them in a Leaflet visualization
-
+- [Extra: Code to run CWR gap analysis for multiple species and visualize them in a Leaflet visualization]()
 
 > [!Warning]
 > The CWRGA requires germplasm data. In the lack of germplasm data, your target species must be considered as an urgent priority to collect.
 
-## CWR outcomes checklist
+#### CWR outcomes checklist
 - [x] Final Conservation Score tables (Metrics)
 - [x] Gap map
 __________________________________________________________________
 ### Topic 3.3. Landraces Gap Analysis foundations
 This section introduces the concept of a Landraces gap analysis (LGA) using a presentation and it provides the differences between CWRGA and LGA approaches.
-Slides:
-Foundations of Landraces Gap Analysis (LGA) 
 
-Topic 3.4. Tutorial to perform a Landraces gap analysis using a shiny app
+Slides:
+- [Foundations of Landraces Gap Analysis (LGA)]()
+
+### Topic 3.4. Tutorial to perform a Landraces gap analysis using a shiny app
 This topic introduces the LGA toolbox, a Shiny app developed at CIAT to develop an LGA from scratch only requiring an occurrence data file. In this topic is provided an example using Triticum turgidum for Northern Africa using data downloaded from GBIF, Genesys and FAO WIEWS
+
 Content:
-Introduction to LGA toolbox
+- [Introduction to LGA toolbox]()
+  
 Tutorials:
-Tutorial to run a Landrace gap analysis using Triticum turgidum data for Northern Africa using GBIF, WIEWS; and Genesys data
+- [Tutorial to run a Landrace gap analysis using Triticum turgidum data for Northern Africa using GBIF, WIEWS; and Genesys data]()
+  
 Example dataset:
-Triticum turgidum example for a LGA
+- [Triticum turgidum example for a LGA]()
 __________________________________________________________________
-#Input data required:
+#### Input data required:
 - [] Occurrence data formatted for the GapAnalysis R package 
 - [] Define a geographical area due to LGA toolbox will perform the analysis from the scratch
 __________________________________________________________________
-Steps required for a landrace gap analysis:
-Template:
-Step 0: Prepare your data according this occurrences template
-Software:
-Step 1: Download LGA toolbox (Total size: 3.8GB
-Steps:
-Step 2: Unzip LGA toolbox 
-Step 3: Put your occurrence data in a CSV file
-Tutorial : (Steps 4 to 9)
-Step 4: Start your LGA toolbox
-Step 5: Create your outcomes folder
-Step 6: Preprocessing: Upload occurrence data, Select areas, and curate coordinate
-Step 7: Modeling species distribution
-Step 8: Obtain gap collection metrics and maps
-Step 9: Validate approach (This steps is quite slow, please be patient)
-__________________________________________________________________
-LGA outcomes checklist
-HTML Report 
-Gap map with three assessment layers
-Coverage metrics
-________________________________________________________________
+## Steps required for a landrace gap analysis:
 
-Outcomes obtained:
+Template:
+-[ Step 0: Prepare your data according this occurrences template]()
+
+Software:
+- [Step 1: Download LGA toolbox (Total size: 3.8GB](https://drive.google.com/file/d/1hrvawDS8yN-OaARUBhXbe13eF6J5kpOB/view)
+
+Steps:
+- Step 2: Unzip LGA toolbox 
+- Step 3: Put your occurrence data in a CSV file
+  
+- [Tutorial : (Steps 4 to 9)]()
+- Step 4: Start your LGA toolbox
+- Step 5: Create your outcomes folder
+- Step 6: Preprocessing: Upload occurrence data, Select areas, and curate coordinate
+- Step 7: Modeling species distribution
+- Step 8: Obtain gap collection metrics and maps
+- Step 9: Validate approach (This steps is quite slow, please be patient)
+__________________________________________________________________
+#### LGA outcomes checklist
+- [x] HTML Report 
+- [x] Gap map with three assessment layers
+- [x] Coverage metrics
+________________________________________________________________
+#### Outcomes obtained:
 ```diff
 Stage 3. Sample germplasm occurrences into the realized niche using different approaches (CWR: Buffer; Landrace: Accessibility + Environment + Geography)
 Stage 4. Obtain the gap areas to collect germplasm material including planning collecting missions
 ```
-
 <img width="600" height="300" alt="Diapositiva10" src="https://github.com/user-attachments/assets/d26bc2da-5248-4790-be8c-fc347d0cfad5" />
 ______________________________________________________
 
