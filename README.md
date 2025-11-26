@@ -236,29 +236,29 @@ Data sources:
 [Video Tutorial (Genesys)](https://www.youtube.com/watch?v=3VV-juFFVxs)
 Step 3.) Proceed to clean up your occurrences data 
 Tutorials:
-- [Cleaning up your coordinates using Cleancoordinates R package]()
+- [Cleaning up your coordinates using Cleancoordinates R package](https://ropensci.github.io/CoordinateCleaner/articles/Cleaning_GBIF_data_with_CoordinateCleaner.html)
 - [How to use an API to clean up occurrences data: (Geographical Quality Score)]()
 Tutorial data and R code example:
-- [Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys]()
-- [Bactris gasipaes cleaning coordinates using CoordinateCleaner]()
+- [Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/occurrences.csv)
+- [Bactris gasipaes cleaning coordinates using CoordinateCleaner](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/CLEAN_COORDS.R)
 Step 4.) Format your data for a species distribution and gap analysis
 Tutorial data and template examples:
-- [Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys for wallace (SDM)]()
-- [Cucurbita species from GapAnalysis R package example (CWRGA)]()
-- [Triticum turgidum example for a LGA]()
+- [Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys for wallace (SDM)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/occurrences.csv)
+- [Cucurbita species from GapAnalysis R package example (CWRGA)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/CWRGA_input_format.csv)
+- [Triticum turgidum example for a LGA](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/triticum_turgidum_to_process.csv)
 Tutorial:
-- [Formatting data for a species distribution models and gap analysis]()
+- [Formatting data for a species distribution models and gap analysis](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/Occurrences%20data%20tutorial.pptx.pdf)
 
 ____________________________________________________________
 Outcomes obtained at this point:
 ```diff
-
-Stage 1. Obtain Species occurrences (Germplasm + Herbarium data in a geographical space)
++ Stage 1. Obtain Species occurrences (Germplasm + Herbarium data in a geographical space)
 ```
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ccb7895a-9e14-4232-990b-4064968321cb" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/ccb7895a-9e14-4232-990b-4064968321cb" />
 
 __________________________________________________________________
-Module 2. Introduction to species distribution models (16-20 hours)
+
+## Module 2. Introduction to species distribution models (16-20 hours)
 A species can inhabit a physical space where it has the ecological conditions to survive. A species distribution model aims to predict the area using the niche concept as a basis. The main task of this module is to find that species distribution.
 Topics:
 2.1.) What is a niche and what is a model?, and how to model a species distribution model? (Foundations)
