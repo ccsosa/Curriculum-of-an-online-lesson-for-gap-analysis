@@ -407,7 +407,7 @@ Code:
   
 Tutorial:
 - [Step3): Tutorial to run a Crop Wild Relatives Gap Analysis using an R code explained step by step](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/Tutorial%20to%20perform%20a%20Crop%20Wild%20Relatives%20ex-situ%20gap%20analysis.pptx.pdf)
-- 
+  
 Code:
 - [Extra: Code to run CWR gap analysis for multiple species and visualize them in a Leaflet visualization](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/CWR_GAPANALYSIS_SUMMARY.R)
 
