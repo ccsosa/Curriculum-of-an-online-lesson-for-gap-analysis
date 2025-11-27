@@ -53,8 +53,10 @@ Upon completing this curriculum, learners will:
 
 ## How to use this document
 This document follows the logical sequence shown in Figure 1, which describes the four stages of conducting a gap analysis. Stages 1 and 2 are described in the first two modules, and Stages 3 and 4 are described in Module 3. Along with the document, you will find resources such as tutorials, presentations, videos, and software to obtain gap analysis results.
+<p align="center">
+  <img width="640" height="360" alt="Presentación1" src="https://github.com/user-attachments/assets/397c8f67-c624-437e-b83a-8788da23772f" />
+</p>
 
-<img width="1280" height="720" alt="Presentación1" src="https://github.com/user-attachments/assets/397c8f67-c624-437e-b83a-8788da23772f" />
 **Figure 1.** Steps to conduct a gap analysis. This figure is mainly focused on crop wild relatives gap analysis but conceptually describes the foundations of landrace analysis as well. A.) Obtain Species occurrences (Germplasm + Herbarium data visualized in a geographical space) B.) Model the species distribution model (white rectangle) into the possible geographical space, represented in blue. C.) Creating buffers around the germplasm occurrences into the realized niche or available space for a species and D.) A representation of places to collect germplasm samples represented in gray into the species distribution model
 
 # Curriculum structure
@@ -227,7 +229,9 @@ Consider the following steps when curating your germplasm passport data (Figure 
 - Step 3.) Proceed to clean up your occurrences data 
 - Step 4.) Format your data for a species distribution and gap analysis
   
-<img width="1020" height="931" alt="image" src="https://github.com/user-attachments/assets/71452dde-11a6-437a-9e7f-7e9dedd958eb" />
+ <p align="center"> 
+  <img width="510" height="466" alt="image" src="https://github.com/user-attachments/assets/71452dde-11a6-437a-9e7f-7e9dedd958eb" />
+</p>
 
 **Figure 2.** Workflow to curate and clean up geographical records from species occurrences databases consisting of four steps: Step 1.) Define whether your target species is a landrace or a crop wild relative. Step 2.) Search your data in occurrences databases and split in germplasm (G) and Herbarium for other sources (H). Step 3.) Proceed to clean your occurrence data. Step 4.) Format your data for a species distribution and gap analysis
 
