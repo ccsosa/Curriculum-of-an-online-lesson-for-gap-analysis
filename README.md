@@ -66,33 +66,33 @@ The curriculum structure consists of the following:
  Use of GIS tools in planning germplasm conservation, including GIS use in germplasm bank collection data and model species distribution models using existing databases available online, which is divided into two modules:
 - ### Module 1. The Use of GIS Tools in Planning Conservation
 In this module, learners will be able to download and visualize geographical germplasm data. Gain skills to curate and prepare GIS data for species distribution modeling and gap analysis. Understand the relevance of GIS in plant germplasm conservation, and curate geographical, taxonomic and obtain environmental data to be used in species distribution models (SDMs), and gap analysis
-  - 1.1. GIS related to plant germplasm conservation
-  - 1.2. Species occurrences databases
-  - 1.3. How to curate GIS data
-  - 1.4. Preparing data for species distribution models and gap analysis
+    - 1.1. GIS related to plant germplasm conservation
+    - 1.2. Species occurrences databases
+    - 1.3. How to curate GIS data
+    - 1.4. Preparing data for species distribution models and gap analysis
     
 - ### Module 2. Introduction to Species Distribution Models
 In the second module, the learners will learn to understand and apply ecological niche concept and species distribution models (SDMs) to obtain inputs for gap analysis to identify potential collecting areas as well as to use different pseudo-absences methods.
-  - 2.1. What is a niche and what is a species distribution model? and how to model a species distribution model?
-  - 2.2. Examples using MaxEnt, Wallace, enmSdmX, and ENMeval
-  - 2.3. Background effect
-  - 2.4. Practical use of SDMs in conservation
+    - 2.1. What is a niche and what is a species distribution model? and how to model a species distribution model?
+    - 2.2. Examples using MaxEnt, Wallace, enmSdmX, and ENMeval
+    - 2.3. Background effect
+    - 2.4. Practical use of SDMs in conservation
 
 ## PART II. Gap Analysis
 Gap Analysis using collections information for Crop Wild Relatives, and landraces, and finally providing visualization for planning collecting missions. Thus, this document wants to help people to optimize time, resources, and provide a resource to effectively collect new plant germplasm material with the potential to help to pre-breeding programs and in consequence to food security and it is divided in two modules:
 
 - ### Module 3. Gap Analysis
 Learners will learn to use SDMs, and perform Crop Wild Relatives (CWRGA) and Landraces gap analyses (LGA) as well as understand and interpret gap analysis metrics and results for target species to be collected via GapAnalysis R package and a tool named LGA toolbox respectively.
-  - 3.1. Foundations of Crop Wild Relatives gap analysis
-  - 3.2. Introduction to the GapAnalysis R package (CWRGA)
-  - 3.3. Landrace Gap Analysis foundations
-  - 3.4. Tutorial to perform a Landrace Gap Analysis using the LGA Shiny App
+    - 3.1. Foundations of Crop Wild Relatives gap analysis
+    - 3.2. Introduction to the GapAnalysis R package (CWRGA)
+    - 3.3. Landrace Gap Analysis foundations
+    - 3.4. Tutorial to perform a Landrace Gap Analysis using the LGA Shiny App
 
  - ### Module 4. Preparing Strategies to Collect New Plant Materials
 In this module, learners will visualize and curate gap analysis results using three main validation questions. The learner will be able to identify caveats and limitations in the gap analysis results. And planning collecting missions, and finally explore alternatives to gap analysis
-  - 4.1. Visualization of gap analysis results
-  -  4.2. Determining caveats in results
-  - 4.3. Alternatives to gap analysis
+    - 4.1. Visualization of gap analysis results
+    - 4.2. Determining caveats in results
+    - 4.3. Alternatives to gap analysis
 
 ## PART III. Bibliography
 ---
