@@ -255,11 +255,11 @@ Data sources:
   - [Cleaning up your coordinates using Cleancoordinates R package](https://ropensci.github.io/CoordinateCleaner/articles/Cleaning_GBIF_data_with_CoordinateCleaner.html)
   - [How to use an API to clean up occurrences data: (Geographical Quality Score)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/Geographical_quality_score.pptx.pdf)
   Tutorial data and R code example:
-  - [Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/occurrences.csv)
-  - [Bactris gasipaes cleaning coordinates using CoordinateCleaner](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/CLEAN_COORDS.R)
+  - [_Bactris gasipaes_ occurrence data from GBIF, WIEWS, and Genesys](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/occurrences.csv)
+  - [_Bactris gasipaes_ cleaning coordinates using CoordinateCleaner](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/CLEAN_COORDS.R)
 - _Step 4.) Format your data for a species distribution and gap analysis_
   Tutorial data and template examples:
-  - [Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys for wallace (SDM)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/occurrences.csv)
+  - [_Bactris gasipaes_ occurrence data from GBIF, WIEWS, and Genesys for wallace (SDM)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/occurrences.csv)
   - [Cucurbita species from GapAnalysis R package example (CWRGA)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/CWRGA_input_format.csv)
   - [_Triticum turgidum_ example for a LGA](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/triticum_turgidum_to_process.csv)
     
@@ -309,7 +309,7 @@ Optional articles:
 - [The effects of small sample size and sample bias on threshold selection and accuracy assessment of species distribution models](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1600-0587.2011.06545.x)
   
 Tutorial data:
-- [Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/SDM/occurrences_SDM.csv)
+- [_Bactris gasipaes_ occurrence data from GBIF, WIEWS, and Genesys](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/SDM/occurrences_SDM.csv)
   
 Tutorial:
 - [SDM slides tutorial using B. gasipaes data (slides 53-77)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/SDM/Day_4_SDM.pptx.pdf)
