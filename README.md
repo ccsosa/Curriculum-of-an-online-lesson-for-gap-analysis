@@ -1,6 +1,7 @@
 # Gap analysis curriculum of an online lesson for gap analysis
 
-Version 1. (November 2025)
+_Version 1. (November 2025)_
+
 # Introduction
 Germplasm banks play a key role in global food security by safeguarding plant genetic resources (PGR) with the potential to adapt modern crops to climate change conditions, human activities affecting agricultural lands, or the appearance of pests and diseases. PGR are a cornerstone of modern plant breeding, providing the introgression of useful traits such as pest resistance and adaptation to extreme climate conditions, as well as serving as a reservoir of genetic diversity in plants. Consequently, PGR collecting and conservation initiatives are increasingly vital in a changing world, where demands for enhanced food production and nutrition are urgent.
 
