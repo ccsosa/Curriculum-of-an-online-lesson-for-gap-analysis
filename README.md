@@ -87,7 +87,7 @@ Learners will learn to use SDMs, and perform Crop Wild Relatives (CWRGA) and Lan
   - 3.4. Tutorial to perform a Landrace Gap Analysis using the LGA Shiny App
 
  - ### Module 4. Preparing Strategies to Collect New Plant Materials
-In this module, learners will visualize and curate gap analysis results using three main validation questions. The student will be able to identify caveats and limitations in the gap analysis results. And planning collecting missions, and finally explore alternatives to gap analysis
+In this module, learners will visualize and curate gap analysis results using three main validation questions. The learner will be able to identify caveats and limitations in the gap analysis results. And planning collecting missions, and finally explore alternatives to gap analysis
   - 4.1. Visualization of gap analysis results
   -  4.2. Determining caveats in results
   - 4.3. Alternatives to gap analysis
