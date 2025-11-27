@@ -487,7 +487,7 @@ Template:
 - [Step 0: Prepare your data according this occurrences template](https://docs.google.com/spreadsheets/d/1nV5US_WK8u6AZVpl89jHzVGm8CvOd5xD/edit?gid=2008329946#gid=2008329946)
 
 Software:
-- [Step 1: Download LGA toolbox (Total size: 3.8GB](https://drive.google.com/file/d/1hrvawDS8yN-OaARUBhXbe13eF6J5kpOB/view)
+- [Step 1: Download LGA toolbox (Total size: 3.8GB)](https://drive.google.com/file/d/1hrvawDS8yN-OaARUBhXbe13eF6J5kpOB/view)
 
 Steps:
 - Step 2: Unzip LGA toolbox 
