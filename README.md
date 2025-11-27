@@ -275,7 +275,7 @@ Learning outcomes:
 - Obtain insights about model a species distribution model
 - Obtain an SDM as input data for a gap analysis
 
-## Topic 2.1. What is a niche and what is a species distribution model?, and how to model a species distribution model? (Foundations)
+### Topic 2.1. What is a niche and what is a species distribution model?, and how to model a species distribution model? (Foundations)
 This section introduces the foundations of what is a model and what is a species distribution model using the ODMAP approach: Overview, Data, Model fitting, Assessment, Prediction. Also, this topic includes some examples of modeling a species distribution model using MaxEnt and R
 
 Content and articles:
@@ -304,7 +304,7 @@ Tutorial data:
 Tutorial:
 - [SDM slides tutorial using B. gasipaes data (slides 53-77)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/SDM/Day_4_SDM.pptx.pdf)
 
-## Topic 2.2. Examples using MaxEnt, Wallace, enmsdmX, and ENMEval
+### Topic 2.2. Examples using MaxEnt, Wallace, enmsdmX, and ENMEval
 This section provides a detailed tutorial on modeling species distribution using MaxEnt. MaxEnt is the gold standard algorithm for species distribution because of its capability to use pseudoabsences and only presence records. Thus, some resources are provided to use MaxEnt, such as Wallace. Wallace is an R platform that allows modeling a specific species distribution using a local computer and a Shiny app (a browser-based form to run a program in R, which is convenient for beginner users and for those users new to the modeling tasks. It is provided for advanced users as a tutorial of the package enmSdmX and ENMEval (We highly suggest using this approach to obtain accurate species distribution models). 
 
 Articles and websites:
@@ -320,14 +320,14 @@ Tutorials:
 - [enmSdmX website ](https://adamlilith.r-universe.dev/enmSdmX/doc/manual.html)
 - [ENMeval tutorial](https://jamiemkass.github.io/ENMeval/articles/ENMeval-2.0-vignette.html)
 
-## Topic 2.3. Background effect
+### Topic 2.3. Background effect
 Only presence algorithms, such as MaxEnt, allow the use of records curated from biological collections, such as museums, herbariums, or germplasm collections, compared with a set of points in the geographical study area to obtain suitability maps. Nevertheless, the selection of pseudo-absences is critical for obtaining a good model. Thus, the two following lectures are provided for users to know some useful approaches to obtain an accurate species distribution.
 
 Articles:
 - [Target-group backgrounds prove effective at correcting sampling bias in Maxent models](https://onlinelibrary.wiley.com/doi/10.1111/ddi.13442)
 - [Environmental filters reduce the effects of sampling bias and improve predictions of ecological niche models](https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0587.2013.00441.x)
 
-## Topic 2.4. Practical use of SDMs in conservation
+### Topic 2.4. Practical use of SDMs in conservation
 In this section, a set of lectures is introduced to teach the learning of ecological reasoning using species distribution in conservation decision uses, as is the case of the ex-situ gap analysis provided in the module three.
 
 Articles:
