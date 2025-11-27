@@ -225,7 +225,7 @@ Consider the following steps when curating your germplasm passport data (Figure 
 
 **Figure 2.** Workflow to curate and clean up geographical records from species occurrences databases consisting of four steps: Step 1.) Define whether your target species is a landrace or a crop wild relative. Step 2.) Search your data in occurrences databases and split in germplasm (G) and Herbarium for other sources (H). Step 3.) Proceed to clean your occurrence data. Step 4.) Format your data for a species distribution and gap analysis
 
-Curation steps
+#### Curation steps:
 - Step 1.) Define if your target species is a landrace or a crop wild relative:
 Content:
   - [What is a Crop Wild Relative?](https://www.fao.org/fileadmin/templates/agphome/documents/PGR/PubPGR/ResourceBook/A.1.pdf)
