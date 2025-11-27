@@ -675,6 +675,13 @@ In this section, you will find relevant literature, optional and recommended, re
 Optional:
 - [A set of simple decision matrices for prioritizing collection of rare plant species for ex situ conservation](https://www.sciencedirect.com/science/article/abs/pii/S0006320705003721)
 
+### Open-source code repositories
+- [Gap analysis toolbox (shinyapp)](https://github.com/CIAT-DAPA/gap_analysis_shinyapp/tree/dev)
+- [Geographical quality score](https://github.com/alliance-datascience/genebank-general/tree/dev)
+- [Crop Wild Relatives Gap Analysis R package v2.0](https://github.com/CIAT-DAPA/GapAnalysis)
+- [Crop Wild Relatives Gap Analysis R package v1.0](https://github.com/ccsosa/GapAnalysis)
+- [Crop Wild Relatives Gap Analysis + Species distribution model workflow](https://github.com/alliance-datascience/bolder-gapanalysis-cwr/tree/dev)
+- 
 ---
 ---
 ---
