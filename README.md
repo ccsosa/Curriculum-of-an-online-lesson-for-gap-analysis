@@ -2,7 +2,7 @@
 
 _Version 1. (November 2025)_
 
-# Introduction
+## Introduction
 Germplasm banks play a key role in global food security by safeguarding plant genetic resources (PGR) with the potential to adapt modern crops to climate change conditions, human activities affecting agricultural lands, or the appearance of pests and diseases. PGR are a cornerstone of modern plant breeding, providing the introgression of useful traits such as pest resistance and adaptation to extreme climate conditions, as well as serving as a reservoir of genetic diversity in plants. Consequently, PGR collecting and conservation initiatives are increasingly vital in a changing world, where demands for enhanced food production and nutrition are urgent.
 
 The rapid expansion of plant genetic resource conservation initiatives requires the adoption of knowledge-based robust tools and methods to identify under-represented segments of crop genepools or landraces within global and national collections, such as Gap Analysis. The Gap analysis technique identifies areas in which elements of biodiversity are represented and compared with existing information to identify areas to be protected and conceptualized for Crop Wild Relatives (CWRGA) and landrace (LGA) information [^1][^2][^3].
@@ -36,22 +36,22 @@ Upon completing this curriculum, learners will:
 - Basic experience with GIS tools such ArcGIS, QGIS, R
 - It is recommended to possess knowledge about the distribution and the biology of the target species to analyze
 
-# Checklist
+## Checklist
 
-## Computer requirements
+### Computer requirements
 - [x] Operating System: Windows 10 (minimum), Linux or MacOS
 - [x] Memory (RAM): 8 GB of RAM at least
 - [x] Storage: Enough space on disk (At least 100 GB)
 - [x] Permissions: You must have Administrative rights to install software
 
-## Core Software
+### Core Software
 - [x] R Software
 - [x] RStudio IDE: 
 - [x] RTools for Windows
 - [x] Java JDK: Required to run a Shiny app
 - [x] QGIS (Suggested for GIS visualization)
 
-# How to use this document
+## How to use this document
 This document follows the logical sequence shown in Figure 1, which describes the four stages of conducting a gap analysis. Stages 1 and 2 are described in the first two modules, and Stages 3 and 4 are described in Module 3. Along with the document, you will find resources such as tutorials, presentations, videos, and software to obtain gap analysis results.
 
 <img width="1280" height="720" alt="Presentación1" src="https://github.com/user-attachments/assets/397c8f67-c624-437e-b83a-8788da23772f" />
