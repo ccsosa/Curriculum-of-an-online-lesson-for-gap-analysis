@@ -520,7 +520,7 @@ How to interpret CWRGA results?:
 How to interpret LGA results?:
 - [Landrace gap analysis Introduction (Slide 13).](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/Day_5-Landrace_gap_analysis_intro.pptx.pdf)
 
-## Caveats (Table 2):
+#### Caveats (Table 2):
 
 **Table 2.** Possible caveats reported for Crop Wild Relatives Gap Analysis (CWRGA) and Landraces Gap analysis (LGA).
 | Common pitfalls             | CWRGA                                                                                                                                                        | LGA                                                                           |
