@@ -261,7 +261,7 @@ Data sources:
   Tutorial data and template examples:
   - [Bactris gasipaes occurrence data from GBIF, WIEWS, and Genesys for wallace (SDM)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/occurrences.csv)
   - [Cucurbita species from GapAnalysis R package example (CWRGA)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/CWRGA_input_format.csv)
-  - [Triticum turgidum example for a LGA](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/triticum_turgidum_to_process.csv)
+  - [_Triticum turgidum_ example for a LGA](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/triticum_turgidum_to_process.csv)
     
   Tutorial:
   - [Formatting data for a species distribution models and gap analysis](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/Occurrences%20data%20tutorial.pptx.pdf)
@@ -439,16 +439,16 @@ Slides:
 - [Foundations of Landraces Gap Analysis (LGA)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/Day_5-Landrace_gap_analysis_intro.pptx.pdf)
 
 ### Topic 3.4. Tutorial to perform a Landraces gap analysis using a shiny app
-This topic introduces the LGA toolbox, a Shiny app developed at CIAT to develop an LGA from scratch only requiring an occurrence data file. In this topic is provided an example using Triticum turgidum for Northern Africa using data downloaded from GBIF, Genesys and FAO WIEWS
+This topic introduces the LGA toolbox, a Shiny app developed at CIAT to develop an LGA from scratch only requiring an occurrence data file. In this topic is provided an example using _Triticum turgidum_ for Northern Africa using data downloaded from GBIF, Genesys and FAO WIEWS
 
 Content:
 - [Introduction to LGA toolbox](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/LGA_toolbox_day5.pptx.pdf)
   
 Tutorials:
-- [Tutorial to run a Landrace gap analysis using Triticum turgidum data for Northern Africa using GBIF, WIEWS; and Genesys data](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/Tutorial%20to%20perform%20a%20Landraces%20ex-situ%20gap%20analysis.pptx.pdf)
+- [Tutorial to run a Landrace gap analysis using _Triticum turgidum_ data for Northern Africa using GBIF, WIEWS; and Genesys data](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/Tutorial%20to%20perform%20a%20Landraces%20ex-situ%20gap%20analysis.pptx.pdf)
   
 Example dataset:
-- [Triticum turgidum example for a LGA](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/triticum_turgidum_to_process.csv)
+- [_Triticum turgidum_ example for a LGA](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/triticum_turgidum_to_process.csv)
 __________________________________________________________________
 #### Input data required:
 - [x] Occurrence data formatted for the GapAnalysis R package 
