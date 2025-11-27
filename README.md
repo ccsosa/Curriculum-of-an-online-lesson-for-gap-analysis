@@ -35,14 +35,15 @@ Upon completing this curriculum, learners will:
 - Basic experience with GIS tools such ArcGIS, QGIS, R
 - It is recommended to possess knowledge about the distribution and the biology of the target species to analyze
 
-## Checklist
-# Computer requirements
+# Checklist
+
+## Computer requirements
 Operating System: Windows 10 (minimum), Linux or MacOS
 Memory (RAM): 8 GB of RAM at least
 Storage: Enough space on disk (At least 100 GB)
 Permissions: You must have Administrative rights to install software
 
-# Core Software
+## Core Software
 - [x] R Software
 - [x] RStudio IDE: 
 - [x] RTools for Windows
