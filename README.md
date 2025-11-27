@@ -305,7 +305,7 @@ Video tutorials:
 Tutorial:
 - [A very brief introduction to species distribution models in R](https://jcoliver.github.io/learn-r/011-species-distribution-models.html)
   
-Threshold article (Recommended)
+Threshold article (Recommended):
 - [Multiple Threshold-Selection Methods Are Needed to Binarise Species Distribution Model Predictions](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.70019)
   
 Optional articles:
@@ -358,7 +358,7 @@ Articles:
 # PART II. Gap Analysis
 
 ## Module 3. Gap Analysis (10-12 hours)
-A gap analysis in genebanks is a systematic method aimed at identifying deficiencies in the representation of genetic resources, specifically plant germplasm within ex situ conservation collections. This analysis targets both the geographical and genetic representation of accessions, assisting genebanks in prioritizing the collection efforts for Crop Wild Relatives and landraces. Before start your journey to obtain areas for collecting please check the following table (Table 1) that compare Crop Wild Relatives and Landraces Gap Analysis approaches.
+A gap analysis in genebanks is a systematic method aimed at identifying deficiencies in the representation of genetic resources, specifically plant germplasm within ex situ conservation collections. This analysis targets both the geographical and genetic representation of accessions, assisting genebanks in prioritizing the collection efforts for Crop Wild Relatives and landraces. Before starting your journey to obtain areas for collecting please check the following table (Table 1) that compares Crop Wild Relatives and Landraces Gap Analysis approaches.
 
 **Table 1.** Comparisons between Crop Wild Relatives (CWRGA) and Landraces Gap Analysis (LGA) approaches using nine categories of use.
 
