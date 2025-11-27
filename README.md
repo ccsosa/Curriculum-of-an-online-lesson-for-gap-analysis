@@ -189,7 +189,7 @@ Taxonomy is the most basic level of curation to be provided for a spatial analys
   Concepts:
   - [The influence of spatial errors in species occurrence data used in distribution models](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2007.01408.x)
 
-  Tutorial
+  Tutorial:
   - [Curation of coordinates data tutorial](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Curation/Day_3_Main_coordinate_issues.pptx.pdf)
 
 - Curation of environmental information:
