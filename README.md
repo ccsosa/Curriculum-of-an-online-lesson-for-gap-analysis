@@ -441,7 +441,7 @@ __________________________________________________________________
 ## Steps required for a landrace gap analysis:
 
 Template:
--[ Step 0: Prepare your data according this occurrences template]()
+-[ Step 0: Prepare your data according this occurrences template](https://docs.google.com/spreadsheets/d/1nV5US_WK8u6AZVpl89jHzVGm8CvOd5xD/edit?gid=2008329946#gid=2008329946)
 
 Software:
 - [Step 1: Download LGA toolbox (Total size: 3.8GB](https://drive.google.com/file/d/1hrvawDS8yN-OaARUBhXbe13eF6J5kpOB/view)
@@ -450,7 +450,7 @@ Steps:
 - Step 2: Unzip LGA toolbox 
 - Step 3: Put your occurrence data in a CSV file
   
-- [Tutorial : (Steps 4 to 9)]()
+- [Tutorial : (Steps 4 to 9)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/Tutorial%20to%20perform%20a%20Landraces%20ex-situ%20gap%20analysis.pptx.pdf)
 - Step 4: Start your LGA toolbox
 - Step 5: Create your outcomes folder
 - Step 6: Preprocessing: Upload occurrence data, Select areas, and curate coordinate
@@ -486,13 +486,13 @@ Learning outcomes:
 This section consists of gap analysis visualization and possible tools to determine the validity of the results and collect missions using Google Maps. It includes the use of the Gap Analysis Viewer tool. Nevertheless, the visualization of results can be done using GIS software such as R, ArcGIS or QGIS.
 
 Content:
-- [Gap Analysis Viewer tool introduction]()
+- [Gap Analysis Viewer tool introduction](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Post_Gap_analysis/Gap_Analysis_viewer.pptx.pdf)
   
 Web resource:
-- [Gap Analysis Viewer tool]()
+- [Gap Analysis Viewer tool](https://viewer.gapanalysistools.org/)
   
 Tutorial:
-- [Tutorial to upload results to Gap Analysis Viewer tool]()
+- [Tutorial to upload results to Gap Analysis Viewer tool](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Post_Gap_analysis/Tutorial%20to%20upload%20a%20gap%20map%20to%20Viewer.pptx.pdf)
 
 ### Topic 4.2. Curate gap analysis results
 As a germplasm collector or data analyst, you need to be careful about the outcomes of a gap analysis. 
@@ -505,17 +505,17 @@ After finishing a CWRGA or a LGA go for the following validation questions:
 Please see the following content for more context:
 
 Complementary video:
-- [Differences between Error of Omission and Error of Commission]()
+- [Differences between Error of Omission and Error of Commission](https://www.youtube.com/watch?v=0yIkzNO4tU8)
  
 Optional:
-- [Limitations and trade-offs in the use of species distribution maps for protected area planning]()
+- [Limitations and trade-offs in the use of species distribution maps for protected area planning](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.12771)
   
 How to interpret CWRGA results?:
-- [Tutorial to run a Crop Wild Relatives Gap Analysis]()
-- [GapAnalysis: an R package to calculate conservation indicators using spatial information]()
+- [Tutorial to run a Crop Wild Relatives Gap Analysis (Slide 32)](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/Tutorial%20to%20perform%20a%20Crop%20Wild%20Relatives%20ex-situ%20gap%20analysis.pptx.pdf)
+- [GapAnalysis: an R package to calculate conservation indicators using spatial information](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.05430)
 
 How to interpret LGA results?:
-- [Landrace gap analysis Introduction (Slide 13).]()
+- [Landrace gap analysis Introduction (Slide 13).](https://github.com/ccsosa/Gap-analysis-curriculum-of-an-online-lesson-for-gap-analysis/blob/main/MATERIAL/Gap_analysis/Day_5-Landrace_gap_analysis_intro.pptx.pdf)
 
 ## Caveats (Table 2):
 
@@ -541,17 +541,17 @@ __________________________________________________________________
 As gap analysis consists of occurrence curated data and provides a species distribution model, some alternatives are presented and some pieces of advice are provided for your data such as new methods or countries inventories.
 
 A distance based method:
-- [A distance-based framework for assessing the ex-situ conservation status of plants]()
+- [A distance-based framework for assessing the ex-situ conservation status of plants](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324820)
   
 In-situ Gap Analysis
-- [Comprehensiveness of conservation of useful wild plants: An operational indicator for biodiversity and sustainable development targets]()
-- [Ecological Gap Analysis]()
+- [Comprehensiveness of conservation of useful wild plants: An operational indicator for biodiversity and sustainable development targets](https://www.sciencedirect.com/science/article/pii/S1470160X18308781)
+- [Ecological Gap Analysis](https://www.cbd.int/protected-old/gap.shtml)
 
 Data:
-- [Data for the calculation of an indicator of the comprehensiveness of conservation of useful wild plants]()
+- [Data for the calculation of an indicator of the comprehensiveness of conservation of useful wild plants](https://www.sciencedirect.com/science/article/pii/S235234091831518X)
 Software:
-- [GapAnalysis R package]()
-- [CAPFITOGEN tools]()
+- [GapAnalysis R package (In-situ gap analysis)](https://github.com/CIAT-DAPA/GapAnalysis)
+- [CAPFITOGEN tools](https://www.capfitogen.net/en/)
 __________________________________________________________________
 ## Final outcomes checklist
 - [x] Download and curate data for a CWRGA or a LGA
