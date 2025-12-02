@@ -60,11 +60,14 @@ Upon completing this curriculum, learners will:
 - [x] QGIS (Suggested for GIS visualization)
 
 ## How to use this document
+
+
 <p align="justify">
 This document follows the logical sequence shown in Figure 1, which describes the four stages of conducting a gap analysis. Stages 1 and 2 are described in the first two modules, and Stages 3 and 4 are described in Module 3. Along with the document, you will find resources such as tutorials, presentations, videos, and software to obtain gap analysis results.
 </p>
 <p align="center">
-  <img width="640" height="360" alt="Presentación1" src="https://github.com/user-attachments/assets/397c8f67-c624-437e-b83a-8788da23772f" />
+  <img width="640" height="369" alt="Diapositiva1" src="https://github.com/user-attachments/assets/51e76e4f-cb92-49e8-83bb-1c5b877bce59" />
+
 </p>
 
 <p align="justify">
