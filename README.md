@@ -297,7 +297,7 @@ Data sources:
 
 > # Outcomes obtained for module 1:
 > Stage 1. Obtain Species occurrences (Germplasm + Herbarium data in a geographical space
-> <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/ccb7895a-9e14-4232-990b-4064968321cb" />
+> <img width="600" height="300" alt="Diapositiva7" src="https://github.com/user-attachments/assets/0682bdfa-e04c-4baf-95bf-b6c466cd42df" />
 
 
 ## Module 2. Introduction to species distribution models (16-20 hours)
@@ -376,8 +376,7 @@ Articles:
 
 > # Outcomes obtained for module 2:
 > Stage 2. Obtain the potential distribution of a species considering if it is a landrace or a crop wild relatives
-> <img width="600" height="300" alt="Diapositiva8" src="https://github.com/user-attachments/assets/4330c8fc-720d-484e-863c-041075b52343" />
-
+> <img width="600" height="300" alt="Diapositiva8" src="https://github.com/user-attachments/assets/6ba83906-3a63-49a2-8982-16b9d32b0fd7" />
 ---
 ---
 ---
@@ -512,8 +511,7 @@ __________________________________________________________________
 > # Outcomes obtained for module 3:
 > - Stage 3. Sample germplasm occurrences into the realized niche using different approaches (CWR: Buffer; Landrace: Accessibility + Environment + Geography)
 > - Stage 4. Obtain the gap areas to collect germplasm material including planning collecting missions
-> <img width="600" height="300" alt="Diapositiva10" src="https://github.com/user-attachments/assets/d26bc2da-5248-4790-be8c-fc347d0cfad5" />
-
+> <img width="600" height="300" alt="Diapositiva10" src="https://github.com/user-attachments/assets/ba9d281d-c4cc-4970-b91a-9a8611a3ee44" />
 
 ## Module 4. Preparing strategies to collect new plant materials (3-5 Hours)
 This module introduces post-gap analysis steps,which consist of visualizing the gap analysis results, determining caveats in the results, and finally providing alternatives to gap analysis and possible subsequent steps, such as collecting missions. 
