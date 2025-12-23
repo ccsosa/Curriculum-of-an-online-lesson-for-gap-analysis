@@ -1,4 +1,4 @@
-# Gap analysis curriculum of an online lesson for gap analysis
+# Curriculum of an online lesson for gap analysis
 
 _Version 1. (November 2025)_
 
